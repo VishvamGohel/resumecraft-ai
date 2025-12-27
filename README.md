@@ -1,6 +1,6 @@
 # ResumeCraft AI [An AI powered Resume Generator]
 
-#### Video Demo: <URL HERE>
+#### Video Demo: https://youtu.be/LkhLcnaIeqI
 
 #### Description:
 
