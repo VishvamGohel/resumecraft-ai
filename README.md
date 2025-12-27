@@ -1,4 +1,4 @@
-# AI-Powered Resume Generator
+# ResumeCraft AI [An AI powered Resume Generator]
 
 #### Video Demo: <URL HERE>
 
